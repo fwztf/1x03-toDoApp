@@ -1,4 +1,4 @@
-# Task Manager
+# ToDo App
 
 ## Table of Contents
 - [Overview](#overview)
